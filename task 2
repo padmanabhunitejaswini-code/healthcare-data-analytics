@@ -1,0 +1,24 @@
+Healthcare-Data-Visualization/
+│
+├── data/
+│   ├── healthcare_dataset.csv
+│   └── cleaned_healthcare_dataset.csv
+│
+├── notebooks/
+│   └── Healthcare_Data_Visualization.ipynb
+│
+├── src/
+│   ├── data_cleaning.py
+│   └── visualization.py
+│
+├── images/
+│   ├── disease_distribution.png
+│   ├── age_distribution.png
+│   ├── gender_ratio.png
+│   ├── medication_usage.png
+│   └── correlation_heatmap.png
+│
+├── requirements.txt
+├── README.md
+├── LICENSE
+└── .gitignore

@@ -10,4 +10,4 @@ Results
 Technologies Used
 Installation
 How to Run
-Output Screenshots
+Output Screenshot
